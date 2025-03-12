@@ -14,3 +14,7 @@ Jogo 2D feito na plataforma "Scratch" para melhorar minha lógica de programaç�
 - importe o arquivo <b><i>"Geometry Cat Survival.sb3"</i></b>" dentro da plataforma caso o link não funcione
 
 Acesso ao jogo: https://scratch.mit.edu/projects/934924672/
+
+<hr>
+
+![gameplay_video](GeometryCatSurvival-ezgif.com-crop.gif)
